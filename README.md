@@ -135,22 +135,4 @@ The app is fully responsive with:
 - Safari (latest)
 - Edge (latest)
 
-## Future Enhancements
 
-Potential features to add:
-- Pagination for large employee lists
-- Export to CSV functionality
-- Employee avatars/photos
-- Bulk operations (delete multiple employees)
-- Advanced filtering options
-- Employee status (active/inactive)
-- Department grouping
-- Role-based access control
-
-## License
-
-MIT License - feel free to use this project for learning or as a template for your own applications.
-
-## Author
-
-Created as an internship project demonstrating React skills, CRUD operations, and modern web development practices.
