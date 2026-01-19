@@ -2,6 +2,21 @@
 
 A modern, polished single-page application (SPA) built with React for managing employee records. Features full CRUD operations, search functionality, sorting, and data persistence using localStorage.
 
+
+#website preview
+<img width="1919" height="949" alt="Screenshot 2026-01-20 005659" src="https://github.com/user-attachments/assets/6a3299ab-6e99-4300-8272-d19794ab928b" />
+
+<img width="1919" height="946" alt="Screenshot 2026-01-20 005706" src="https://github.com/user-attachments/assets/c9a83169-e834-42e1-8a5f-f3d4c9951129" />
+
+<img width="1919" height="942" alt="Screenshot 2026-01-20 005712" src="https://github.com/user-attachments/assets/fe137e93-91ac-4a4d-ab1e-e8b521fd0447" />
+
+<img width="1918" height="957" alt="Screenshot 2026-01-20 005722" src="https://github.com/user-attachments/assets/97e3b28b-012c-4881-b4aa-889221a769e7" />
+
+
+
+
+
+
 ## Features
 
 ### Core Functionality
