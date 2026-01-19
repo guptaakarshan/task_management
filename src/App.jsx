@@ -8,45 +8,45 @@ import DeleteConfirmation from './components/DeleteConfirmation';
 const initialEmployees = [
   {
     id: 1,
-    name: 'Sarah Johnson',
+    name: 'Akarshan gupta',
     role: 'Software Engineer',
-    email: 'sarah.johnson@company.com',
-    phone: '+1 (555) 123-4567'
+    email: 'Akarshan@company.com',
+    phone: '+91 123456678'
   },
   {
     id: 2,
-    name: 'Michael Chen',
+    name: 'Bhumika mittal',
     role: 'Product Manager',
-    email: 'michael.chen@company.com',
-    phone: '+1 (555) 234-5678'
+    email: 'Bhumika@company.com',
+    phone: '+91 578834298'
   },
   {
     id: 3,
-    name: 'Emily Rodriguez',
+    name: 'zehra khan',
     role: 'UX Designer',
-    email: 'emily.rodriguez@company.com',
-    phone: '+1 (555) 345-6789'
+    email: 'zehra@company.com',
+    phone: '+91 8549238933'
   },
   {
     id: 4,
-    name: 'David Kim',
+    name: 'aditya garg',
     role: 'DevOps Engineer',
-    email: 'david.kim@company.com',
-    phone: '+1 (555) 456-7890'
+    email: 'aditya@company.com',
+    phone: '+91 7543892938'
   },
   {
     id: 5,
-    name: 'Jessica Williams',
+    name: 'kanak sharma',
     role: 'Marketing Manager',
-    email: 'jessica.williams@company.com',
-    phone: '+1 (555) 567-8901'
+    email: 'kanak@company.com',
+    phone: '+91 5889290293'
   },
   {
     id: 6,
-    name: 'Robert Taylor',
+    name: 'simran kaur',
     role: 'Senior Developer',
-    email: 'robert.taylor@company.com',
-    phone: '+1 (555) 678-9012'
+    email: 'simran@company.com',
+    phone: '+91 4838943293'
   }
 ];
 
